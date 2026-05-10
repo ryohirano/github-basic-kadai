@@ -4,13 +4,12 @@
   text-align: center;
   margin: 20px auto;
   justify-content: center;
-  gap: 10px;
+  margin-top: 0;
 }
 .top-child{
   background-color:#ffd9df ;
   width: 20%;
   text-align: center;
-  display: flex;
   display:inline-block;
 }
 #middle{
